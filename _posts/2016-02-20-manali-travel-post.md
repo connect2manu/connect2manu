@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rohtang Pass" - An awesome hill voyage
+title: Rohtang Pass - An awesome hill voyage
 ---
 
 This was my first post, how exciting!
